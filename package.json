@@ -1,0 +1,13 @@
+{
+  "name": "learn-native",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev:server": "cd server && npm run dev",
+    "dev:app": "cd app && npm run start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
